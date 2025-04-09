@@ -16,7 +16,6 @@ Proyek ini bertujuan untuk melakukan analisis data penjualan dari UrbanMart guna
 
 ## Struktur Repositori
 
-'''
 UrbanMart-Sales-Analysis/
 │
 ├── SQL/
@@ -29,7 +28,6 @@ UrbanMart-Sales-Analysis/
 │   └── UrbanMart_Report.xlsx       # Laporan dan analisis tambahan dalam Excel
 │
 └── README.md                       # Dokumentasi proyek
-'''
 
 ## Visualisasi Dashboard
 
