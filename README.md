@@ -20,12 +20,15 @@ UrbanMart-Sales-Analysis/
 │
 ├── SQL/
 │   └── query-analysis.sql          # Skrip SQL untuk analisis data
+
 │
 ├── Power BI/
 │   └── UrbanMartDashboard.pbix     # File dashboard Power BI
+
 │
 ├── Excel/
 │   └── UrbanMart_Report.xlsx       # Laporan dan analisis tambahan dalam Excel
+
 │
 └── README.md                       # Dokumentasi proyek
 
@@ -43,6 +46,3 @@ Dashboard Power BI menyajikan beberapa insight penting seperti:
 Analisis ini memberikan gambaran menyeluruh mengenai performa penjualan UrbanMart, serta membantu dalam pengambilan keputusan strategis seperti pengelolaan stok, promosi, dan strategi pemasaran.
 
 ---
-
-**Author**: [Prayogi Rizki](https://github.com/prayogi00)  
-**Repo Link**: [UrbanMart-Sales-Analysis](https://github.com/prayogi00/UrbanMart-Sales-Analysis)
