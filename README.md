@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk melakukan analisis data penjualan dari UrbanMart guna
 
 ## Struktur Repositori
 
-```UrbanMart-Sales-Analysis/
+UrbanMart-Sales-Analysis/
 │
 ├── SQL/
 │   └── query-analysis.sql          # Skrip SQL untuk analisis data
