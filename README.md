@@ -28,3 +28,21 @@ UrbanMart-Sales-Analysis/
 │   └── UrbanMart_Report.xlsx       # Laporan dan analisis tambahan dalam Excel
 │
 └── README.md                       # Dokumentasi proyek
+
+## Visualisasi Dashboard
+
+Dashboard Power BI menyajikan beberapa insight penting seperti:
+- Total Penjualan per Bulan
+- Penjualan berdasarkan Kategori Produk
+- Distribusi Penjualan per Cabang
+- Produk Terlaris
+- Customer Segment Analysis
+
+## Kesimpulan
+
+Analisis ini memberikan gambaran menyeluruh mengenai performa penjualan UrbanMart, serta membantu dalam pengambilan keputusan strategis seperti pengelolaan stok, promosi, dan strategi pemasaran.
+
+---
+
+**Author**: [Prayogi Rizki](https://github.com/prayogi00)  
+**Repo Link**: [UrbanMart-Sales-Analysis](https://github.com/prayogi00/UrbanMart-Sales-Analysis)
