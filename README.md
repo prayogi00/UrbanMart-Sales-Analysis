@@ -14,9 +14,10 @@ Proyek ini bertujuan untuk melakukan analisis data penjualan dari UrbanMart guna
 - **Microsoft Power BI**: Untuk pembuatan dashboard visual interaktif.
 - **Microsoft Excel**: Untuk analisis tambahan dan pembuatan laporan.
 
+---
 ## Struktur Repositori
 
-UrbanMart-Sales-Analysis/
+```UrbanMart-Sales-Analysis/
 │
 ├── SQL/
 │   └── query-analysis.sql          # Skrip SQL untuk analisis data
