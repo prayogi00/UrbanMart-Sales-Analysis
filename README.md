@@ -24,11 +24,11 @@ UrbanMart-Sales-Analysis/
 ├── SQL/
 │   └── query-analysis.sql          # Skrip SQL untuk analisis data
 │
-├── Power BI/
-│   └── UrbanMartDashboard.pbix     # File dashboard Power BI
-│
 ├── Excel/
 │   └── UrbanMart_Report.xlsx       # Laporan dan analisis tambahan dalam Excel
+|
+├── Power BI/
+│   └── UrbanMartDashboard.pbix     # File dashboard Power BI
 │
 └── README.md                       # Dokumentasi proyek
 ```
