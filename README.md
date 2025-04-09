@@ -26,7 +26,7 @@ UrbanMart-Sales-Analysis/
 │
 ├── Excel/
 │   └── UrbanMart_Report.xlsx       # Laporan dan analisis tambahan dalam Excel
-|
+│
 ├── Power BI/
 │   └── UrbanMartDashboard.pbix     # File dashboard Power BI
 │
